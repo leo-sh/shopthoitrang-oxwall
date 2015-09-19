@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<plugin>
+    <name>Plugin for Fashion Shop</name>
+    <key>skeleton</key>
+    <description>This plugin is for fashion page, sell online, web business</description>
+    <author>Tran Huu Loc</author>
+    <authorEmail>tranhuuloc646569@gmail.com</authorEmail>
+    <authorUrl>http://www.oxwall.org/</authorUrl>
+    <developerKey>509b57fbb4eab3c95120f366188b79d3</developerKey>
+    <build>1</build>
+    <copyright>(C) 2009 by Tran Huu Loc. All rights reserved.</copyright>
+    <license>The BSD License</license>
+    <licenseUrl>http://www.opensource.org/licenses/bsd-license.php</licenseUrl>
+</plugin>
